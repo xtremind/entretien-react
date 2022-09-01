@@ -13,3 +13,11 @@ Ce repo fournit des exercices permettant de tester les compétences en React et 
   - On pourra s'appuyer sur les images du [site ING actuel](https://www.ing.fr/)
   - pour le texte : [Lorem ipsum](https://www.lipsum.com/)
 - Exercice 2 : faire un appel à API_URL et afficher la liste des users
+
+## Bonus
+
+L'utilisation des frameworks suivants est un plus :
+
+- [https://cssnext.github.io/](CSS NEXT)
+- [https://www.markdownguide.org/](Markdown)
+- [https://webpack.js.org/](WebPack)
