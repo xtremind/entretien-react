@@ -19,5 +19,5 @@ Ce repo fournit des exercices permettant de tester les compétences en React et 
 L'utilisation des frameworks suivants est un plus :
 
 - [CSS NEXT](https://cssnext.github.io/)
-- [https://www.markdownguide.org/](Markdown)
-- [https://webpack.js.org/](WebPack)
+- [Markdown](https://www.markdownguide.org/)
+- [WebPack](https://webpack.js.org/)
